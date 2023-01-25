@@ -3,7 +3,7 @@ import { promises as fs } from "fs";
 class ProductManager {
   constructor() {
     this.products = [];
-    this.path = "./doc/productos.txt";
+    this.path = "./productos.txt";
   }
 
   static id = 0;

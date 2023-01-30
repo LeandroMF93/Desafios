@@ -1,0 +1,38 @@
+[
+    {
+      "title": "producto volvo",
+      "description": "Este es un producto volvo",
+      "price": 2000,
+      "thumbnail": "Sin imagen",
+      "code": "abc123",
+      "stock": 3,
+      "id": 1
+    },
+    {
+      "title": "producto jaguar",
+      "description": "Este es un producto jaguar",
+      "price": 4000,
+      "thumbnail": "Sin imagen",
+      "code": "abc124",
+      "stock": 6,
+      "id": 2
+    },
+    {
+      "title": "producto alfa",
+      "description": "Este es un producto alfa",
+      "price": 1500,
+      "thumbnail": "Sin imagen",
+      "code": "abc125",
+      "stock": 12,
+      "id": 4
+    },
+    {
+      "title": "producto ranger",
+      "description": "Este es un producto ranger",
+      "price": 3000,
+      "thumbnail": "Sin imagen",
+      "code": "abc126",
+      "stock": 9,
+      "id": 5
+    }
+  ]
